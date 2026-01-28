@@ -31,6 +31,7 @@ Based on the repository information provided, I'll create a comprehensive README
 - **作者**：xw00232
 - **创建时间**：2025年5月30日
 - **平台**：Gitee (https://gitee.com/xiaowang00232/xiaowang00232-Primary-school-computer-class-works)
+-           Github (https://github.com/xiaowang00232/xiaowang00232-Primary-school-computer-class-works))
 
 ## 使用说明
 
@@ -53,7 +54,7 @@ This is a primary school computer class programming project created by xw00232. 
 The project has been updated to v0.2 with password removal and code improvements.
 
 **Created**: May 30, 2025  
-**Platform**: Gitee  
+**Platform**: Gitee，Github  
 **Author**: xw00232
 
 Thank you for viewing this project! Have a great day!
